@@ -1,6 +1,5 @@
+source 'https://rubygems.org'
 
-<<<<<<< HEAD
-=======
 gem 'rails',        '5.1.6'
 gem 'puma',         '3.9.1'
 gem 'sass-rails',   '5.0.6'
@@ -28,4 +27,3 @@ end
 
 # Windows環境ではtzinfo-dataというgemを含める必要があります
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
->>>>>>> b25728a73095b27c2bf19e72c04ef79ff50ec4e7
